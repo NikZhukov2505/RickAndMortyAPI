@@ -1,0 +1,20 @@
+.home__content{
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+.content{
+    position: relative;
+}
+.content .MuiPaginationItem-text{
+    color: white;
+    font-size: 25px;
+}
+.pagination__btns{
+    width: 400px;
+    margin: 20px auto;
+    background: rgba(80, 78, 78, 0.623);
+
+}
